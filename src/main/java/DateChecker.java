@@ -18,7 +18,7 @@ public class DateChecker {
     }
 
     public boolean has31Days(Month month) {
-        return false;
+        return !(month == Month.FEBRUARY || month == Month.APRIL || month == Month.JUNE || month == Month.SEPTEMBER || month == Month.NOVEMBER);
     }
 
     

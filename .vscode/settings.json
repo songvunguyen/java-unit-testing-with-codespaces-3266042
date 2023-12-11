@@ -20,6 +20,7 @@
   "workbench.activityBar.visible": true,
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
- "workbench.statusBar.visible": true,
-  "java.server.launchMode": "Standard"
+  "workbench.statusBar.visible": true,
+  "java.server.launchMode": "Standard",
+  "java.configuration.updateBuildConfiguration": "interactive"
 }
